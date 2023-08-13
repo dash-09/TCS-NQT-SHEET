@@ -14,6 +14,7 @@ This is a repo where I will practice coding question Given by Arsh-goyal.
 - [Whole syllabus sheet click here: takeUForward](https://takeuforward.org/interviews/tcs-nqt-syllabus-and-exam-pattern-updated-dec-2021/)
 
  <br/> 
+ 
 ## Topics : Aptitude 
  
 |  Question     |   Question    |  Question     |   Question    |
