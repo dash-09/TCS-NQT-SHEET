@@ -3,7 +3,7 @@ This is a repo where I will practice coding question Given by Arsh-goyal.
 
 ## Details :
 - It has 70 to 100 question on dsa .
-- But that is not enoguh.
+- But that is enogh for NQT .
 - I have to prepare for Aptitude simultaneously. 13 Aug I am starting .
 - 4 Sep to submit application . 11, 12 & 13 is date for exam .   
 
