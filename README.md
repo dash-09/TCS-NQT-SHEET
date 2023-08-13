@@ -5,7 +5,8 @@ This is a repo where I will practice coding question Given by Arsh-goyal.
 - It has 70 to 100 question on dsa .
 - But that is enogh for NQT .
 - I have to prepare for Aptitude simultaneously. 13 Aug I am starting .
-- 4 Sep to submit application . 11, 12 & 13 is date for exam .   
+- 4 Sep to submit application . 11, 12 & 13 is date for exam .
+- 3 coding question per day.
 
 ## Syllabus :
 - [Arsh Goyal: Coding Sheet click here](https://docs.google.com/spreadsheets/d/1Vb97Fj-_vgeCmsMSBusFJqtSfhr_cgf-_PRRl6zM3ac/edit#gid=0)
