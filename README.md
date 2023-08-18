@@ -13,8 +13,10 @@ This is a repo where I will practice coding question Given by Arsh-goyal.
 - [Striever: Coding Sheet click here](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/)
 - [Whole syllabus sheet click here: takeUForward](https://takeuforward.org/interviews/tcs-nqt-syllabus-and-exam-pattern-updated-dec-2021/)
 
- <br/> 
-## The Path I am Following .
+
+ 
+## The Path I am Following 
+
 - Arrays : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Arrays)
 - Sorting & Searching : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Sorting%20)
 - Number : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Number)
