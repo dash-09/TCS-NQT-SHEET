@@ -14,7 +14,12 @@ This is a repo where I will practice coding question Given by Arsh-goyal.
 - [Whole syllabus sheet click here: takeUForward](https://takeuforward.org/interviews/tcs-nqt-syllabus-and-exam-pattern-updated-dec-2021/)
 
  <br/> 
- 
+## The Path I am Following .
+- Arrays : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Arrays)
+- Sorting & Searching : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Sorting%20)
+- Number : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Number)
+- Number System : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Number%20System)
+- String : [ 🔗 is here ](https://github.com/dash-09/TCS-NQT-SHEET/tree/main/Strings)
 ## Topics : Aptitude 
  
 |  Question     |   Question    |  Question     |   Question    |
